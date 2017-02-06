@@ -542,7 +542,7 @@ IF NOT help {
 				PARAMETER string.
 				
 				PRINT string.
-				LOG string TO defaultPath+"/"+pidName.
+				LOG string TO defaultPath+"/Output.txt".
 			}
 		}
 	}
